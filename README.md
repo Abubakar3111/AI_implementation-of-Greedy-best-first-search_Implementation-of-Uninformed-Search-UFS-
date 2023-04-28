@@ -1,0 +1,2 @@
+# AI_implementation-of-Greedy-best-first-search_Implementation-of-Uninformed-Search-UFS-
+Greedy Search and Uninformed Search (UFS) are two powerful search algorithms used in artificial intelligence. Greedy Search uses heuristics to quickly find optimal solutions, while UFS explores the entire search space. Both algorithms have their own unique advantages and applications, making them essential tools in solving complex problems
